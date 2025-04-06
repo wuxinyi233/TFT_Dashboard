@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\files\\hex2bin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\files\\hex2bin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\filebinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\filebinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\serialporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\serialporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|c:\\wxy\\weiyi\\bootloader\\upcomputer\\winformsapp1-2025-2-24\\winformsapp1-2025-2-17\\winformsapp1\\can\\enums\\receivedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D17C6C9-97E1-45B0-A064-42C8643BA7C3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\can\\enums\\receivedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hex2Bin.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Files\\Hex2Bin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Files\\Hex2Bin.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Files\\Hex2Bin.cs",
+              "RelativeToolTip": "WinFormsApp1\\Files\\Hex2Bin.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAASwKEBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:52:54.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileBinModel.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\FileBinModel.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FileBinModel.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\FileBinModel.cs",
+              "RelativeToolTip": "WinFormsApp1\\FileBinModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAASwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:17:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:04:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:35:43.836Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAWwKcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:35:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T08:46:56.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceivedState.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\CAN\\Enums\\ReceivedState.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CAN\\Enums\\ReceivedState.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\CAN\\Enums\\ReceivedState.cs",
+              "RelativeToolTip": "WinFormsApp1\\CAN\\Enums\\ReceivedState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:26:08.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerialPortHelper.cs",
+              "DocumentMoniker": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\SerialPortHelper.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SerialPortHelper.cs",
+              "ToolTip": "C:\\wxy\\weiyi\\bootloader\\UpComputer\\WinFormsApp1-2025-2-24\\WinFormsApp1-2025-2-17\\WinFormsApp1\\SerialPortHelper.cs",
+              "RelativeToolTip": "WinFormsApp1\\SerialPortHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:35:43.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
