@@ -1,0 +1,7 @@
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\WinFormsApp1.pdb
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\D3DCompiler_47_cor3.dll
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\PenImc_cor3.dll
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\PresentationNative_cor3.dll
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\vcruntime140_cor3.dll
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\wpfgfx_cor3.dll
+C:\wxy\weiyi\software\bootloader\UpComputer\WinFormsApp1-2025-2-24\WinFormsApp1-2025-2-17\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x86\WinFormsApp1.exe
